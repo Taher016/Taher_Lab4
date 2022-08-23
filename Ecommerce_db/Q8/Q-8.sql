@@ -1,0 +1,1 @@
+select cus_name, cus_gender from customer where cus_name like'a%' or cus_name like '%a'
